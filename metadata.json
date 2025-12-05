@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Slide Companion",
+  "description": "A smart document reader that uses Gemini to analyze and explain slides or pages in real-time.",
+  "requestFramePermissions": []
+}
